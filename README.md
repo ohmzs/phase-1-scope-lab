@@ -20,7 +20,7 @@ and know what to avoid in the future.
 
 Ok, these are your tasks:
 
-- `customerName`: Declare a variable in global scope called `customerName` using
+- `customerName`: Declare a variable in global  called `customerName` using
   the `var` keyword.
 - `upperCaseCustomerName()`: Write a function that accesses that global
   `customerName` variable, and uppercases it.
